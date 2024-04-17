@@ -23,6 +23,11 @@ https://arxiv.org/pdf/2306.03901.pdf
 * iTransformer 时序预测   
 https://arxiv.org/pdf/2310.06625.pdf
 
+* DB-GPT 清华    
+https://github.com/TsinghuaDatabaseGroup/DB-GPT
+* LLM As DBA   
+https://arxiv.org/pdf/2308.05481.pdf
+
 ## 调用外部工具
 
 * Toolformer论文地址   
